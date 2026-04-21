@@ -1,0 +1,4 @@
+# Configuration settings for JARVIS
+
+api_key: YOUR_API_KEY
+window_size: 10

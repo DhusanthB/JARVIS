@@ -1,0 +1,6 @@
+# Required Python packages
+numpy
+scipy
+tensorflow
+flask
+pyobjc
